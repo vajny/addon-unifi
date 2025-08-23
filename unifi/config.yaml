@@ -1,7 +1,7 @@
 ---
-name: UniFi Network Application
+name: Vajny UniFi Network Application
 version: dev
-slug: unifi
+slug: unifivajny
 description: Manage your UniFi network using a web browser
 url: https://github.com/hassio-addons/addon-unifi
 codenotary: codenotary@frenck.dev
